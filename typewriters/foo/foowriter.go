@@ -1,4 +1,4 @@
-package foowriter
+package foo
 
 import (
 	"fmt"

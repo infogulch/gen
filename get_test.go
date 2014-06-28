@@ -50,7 +50,7 @@ func TestGetImports(t *testing.T) {
 			// non-standard typewriter
 			`_ "github.com/clipperhouse/gen/typewriters/classic"`,
 			`_ "github.com/clipperhouse/gen/typewriters/container"`,
-			`_ "github.com/clipperhouse/gen/typewriters/foowriter"`,
+			`_ "github.com/clipperhouse/gen/typewriters/foo"`,
 		},
 	}
 
