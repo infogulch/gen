@@ -7,7 +7,7 @@ import (
 	"strings"
 
 	"github.com/clipperhouse/gen/typewriter"
-	_ "github.com/clipperhouse/gen/typewriters/genwriter" // make sure typewriters folder is at top of GOPATH/src
+	_ "github.com/clipperhouse/gen/typewriters/classic"
 )
 
 func main() {

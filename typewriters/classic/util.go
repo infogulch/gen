@@ -1,4 +1,4 @@
-package genwriter
+package classic
 
 func remove(a []string, s ...string) (result []string) {
 	exists := make(map[string]bool)

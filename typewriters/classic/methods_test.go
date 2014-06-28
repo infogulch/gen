@@ -1,4 +1,4 @@
-package genwriter
+package classic
 
 import (
 	"testing"
